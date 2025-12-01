@@ -1,0 +1,5 @@
+requests
+python-dotenv
+langgraph
+pip install groq
+pip install python-dotenv
